@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## Projects
+
+### Computer Systems
+* Video game on Xilinx FPGA, supports PS/2 keyboard and VGA monitor
+* Dynamically scheduled CPU on Xilinx FPGA, RISC-V 64-bit architechture
+* Toy RISC-V Operating System, supports task scheduling, virtual memory and user/kernel mode switching
+* C Runtime Library, x86_64 architechture on GNU/Linux, independent of the commonly used `libc.so` from gcc
+* C Compiler, still under development
+* Mini Database Management System
+
 <!--
 **pan2013e/pan2013e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
