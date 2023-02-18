@@ -1,26 +1,21 @@
 ### Hi there 👋
 
-## Projects
+## Infrastructures (Educational Purpose)
 
-### Computer Systems
-* Video game on Xilinx FPGA, supports PS/2 keyboard and VGA monitor
-* Dynamically scheduled CPU on Xilinx FPGA, RISC-V 64-bit architechture
-* Toy RISC-V Operating System, supports task scheduling, virtual memory and user/kernel mode switching
-* C Runtime Library, x86_64 architechture on GNU/Linux, independent of the commonly used `libc.so` from gcc
-* C Compiler, still under development
-* Mini Database Management System
+### Java
 
-<!--
-**pan2013e/pan2013e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- JVM
+- Configurable HTTP server
+- Unit test framework
 
-Here are some ideas to get you started:
+### C/C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C compiler
+- Shell
+- Database system
+
+### Misc
+
+- FPGA game
+- A custom language interpreter
+- LaTeX templates
